@@ -1,0 +1,43 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'24'
+-sourcepath
+'/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/src/main/java:/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'artifactsdemo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'artifactsdemo 1.0-SNAPSHOT API'
+com.example
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/src/main/java = 1755344320496
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/generated-sources/annotations = 1755344485650
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs/tag-search-index.js = 1755344807300
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs/overview-tree.html = 1755344807286
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs/module-search-index.js = 1755344807298
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs/index.html = 1755344807310
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs/package-search-index.js = 1755344807298
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs/index-all.html = 1755344807306
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs/allpackages-index.html = 1755344807297
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs/member-search-index.js = 1755344807299
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs/help-doc.html = 1755344807316
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs/element-list = 1755344807259
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs/search.html = 1755344807309
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs/allclasses-index.html = 1755344807295
+/Users/fanyunfei/github/learnJava/MavenBasics/PublishingArtifacts/artifactsdemo/target/reports/apidocs/type-search-index.js = 1755344807299
